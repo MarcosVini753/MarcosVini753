@@ -7,7 +7,6 @@
   
 - 🌱 atualmente estou aprendendo lingugem C
 - 🎓curso Técnico em Informática integrado ao Ensino Médio 2/3
--🤳
-- 🐱‍💻
+- 🐱‍💻 habilidades: lógica de programação (com portugol) e HTML, CSS e C básico 
 - 📲 68 99900-2260
 - 😄 Pronomes: ele/dele
