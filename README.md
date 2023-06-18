@@ -6,5 +6,5 @@
 </div>
   
 - 🌱 1° semestre de Sistemas de Informação na UFAC
-- 🎓 Técnico em Informática integrado ao Ensino Médio pelo UFAC
+- 🎓 Técnico em Informática integrado ao Ensino Médio pelo IFAC
 - 🐱‍💻 habilidades: lógica de programação (com linguagem C) e HTML e CSS e orientação a objetos (Java) básicos
